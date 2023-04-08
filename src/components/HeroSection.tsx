@@ -31,7 +31,6 @@ export default function HeroSection() {
           <Stack direction={{ base: "column", md: "row" }} spacing={4}>
             <Button
              colorScheme={'#fff'} 
-            //   variant={"ghost"}
               backgroundColor={"#000"}
               size="lg"
               borderRadius={10}
