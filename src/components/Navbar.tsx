@@ -24,7 +24,6 @@ import {
 } from "@chakra-ui/icons";
 
 import LogoSvg from "./svg/LogoSvg";
-import Todo from "./svg/Todo";
 
 export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure();
